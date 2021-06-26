@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aishwarya2111
+- 👋 Hi, I’m @AISHWARYA
 - 👀 I’m interested in web development..
 - 🌱 I’m currently learning angular....
 - 📫 How to reach me aishamu07smvec@gmail.com
